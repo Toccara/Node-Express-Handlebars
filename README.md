@@ -2,6 +2,7 @@
 
 This is a restaurant app that lets users input the names of burgers they'd like to eat.
 
+![1610073759834.jpeg](./1610073759834.jpeg)
 
 
 
